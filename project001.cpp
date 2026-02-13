@@ -10,7 +10,7 @@
 using namespace std;
 
 // --- 1. ข้อมูลพื้นฐาน (เพิ่มพืชหรือไอเทมที่นี่) ---
-const int PLANT_TYPES = 4;
+const int PLANT_TYPES = 3;
 string plantNames[] = {"Carrot", "Corn", "Pumpkin"};
 int plantCosts[]    = {20, 50, 100};   
 int plantSells[]    = {40, 120, 300};  
