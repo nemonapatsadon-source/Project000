@@ -24,7 +24,7 @@ int itemCosts[]    = {50, 150, 200, 150, 50};
 struct Row {
     bool isPlanted = false;
     string plantName = "";
-    int plantTypeIndex = 0;
+    int plantTypeIndex = 0; 
     int age = 0; 
     bool isWatered = false;
     bool isRotten = false;
